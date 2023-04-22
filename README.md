@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umitkalemkus
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning Appium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
